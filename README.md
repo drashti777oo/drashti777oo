@@ -89,11 +89,11 @@
       <img src="https://img.shields.io/badge/Team%20Project-FFF0F5?style=flat&logoColor=FF69B4&color=FFB6C1" alt="Team Badge"/>
       <img src="https://img.shields.io/badge/Open%20Source-FFF0F5?style=flat&logoColor=FF69B4&color=FFB6C1" alt="OS Badge"/><br><br>
       <div align="left">
-        🤝 <b>Collaboration:</b> Actively contributed to an open-source collaborative environment during GirlScript Winter of Contributing (GWOC).<br><br>
+        🤝 <b>Collaboration:</b> Actively contributed to an open-source collaborative environment during Google Winter of Code  (GWoC).<br><br>
         💡 <b>Workflow Mastery:</b> Efficiently handled version control (Git/GitHub), branch management, code reviews, and issue tracking.<br><br>
         🌍 <b>Real-World Impact:</b> Developed features that enhanced the live product, providing invaluable real-world production experience.<br>
       </div>
-      <br>👉 <a href="https://bashoproject.vercel.app"><b>Project Live</b></a> | 👉 <a href="https://github.com/drashti777oo/Basho-by-Shivangi"><b>Repository</b></a>
+      <br>👉 <a href="https://bashoproject.vercel.app"><b>Project Live</b></a>
     </td>
   </tr>
 </table>
