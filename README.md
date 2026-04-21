@@ -20,7 +20,7 @@
 <table align="center" style="border-collapse: collapse; border: none; background-color: #FFF0F5; border-radius: 15px;">
   <tr>
     <td width="30%" align="center" style="border: none; padding: 20px;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRqdzh0cDNyaTVtMDFuaGVqc2w0ZXlpaWZnbDF4bXhlOThqczB4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11c7UUfNzeoH8V21N9N/giphy.gif" width="180" style="border-radius: 10px;" alt="About me cute illustration"/>
+      <img src="https://media.tenor.com/_v16_r2lM9sAAAAC/kawaii.gif" width="180" style="border-radius: 10px;" alt="About me cute illustration"/>
     </td>
     <td width="70%" style="border: none; padding: 20px; font-size: 16px;">
       🎓 <b>Education:</b> B.Tech Computer Science @ SVNIT Surat <br><br>
@@ -47,7 +47,7 @@
   <tr>
     <td width="50%" align="center" style="border: 2px dashed #FFB6C1; border-radius: 10px; padding: 20px;">
       <h3>🧠 Echelon 2k26 <br> (Fake Account Detection)</h3>
-      <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="120" style="border-radius: 10px;"/><br><br>
+      <img src="https://media.tenor.com/cX28OEe4dK8AAAAC/pink-anime-girl-for-alex-anime-blush.gif" width="120" style="border-radius: 10px;"/><br><br>
       <img src="https://img.shields.io/badge/AI%20/%20ML-FFF0F5?style=flat&logoColor=FF69B4&color=FFB6C1" alt="AI / ML Badge"/>
       <img src="https://img.shields.io/badge/Data%20Analysis-FFF0F5?style=flat&logoColor=FF69B4&color=FFB6C1" alt="Data Analysis Badge"/><br><br>
       <div align="left">
@@ -59,7 +59,7 @@
     </td>
     <td width="50%" align="center" style="border: 2px dashed #FFB6C1; border-radius: 10px; padding: 20px;">
       <h3>🔐 Secure Management System</h3>
-      <img src="https://media.giphy.com/media/3o7TKsQ8UQqQ4q7b5C/giphy.gif" width="120" style="border-radius: 10px;"/><br><br>
+      <img src="https://media.tenor.com/saZMskANYroAAAAC/notebook-pc.gif" width="120" style="border-radius: 10px;"/><br><br>
       <img src="https://img.shields.io/badge/Web%20Development-FFF0F5?style=flat&logoColor=FF69B4&color=FFB6C1" alt="Web Dev Badge"/>
       <img src="https://img.shields.io/badge/Security-FFF0F5?style=flat&logoColor=FF69B4&color=FFB6C1" alt="Security Badge"/><br><br>
       <div align="left">
@@ -73,7 +73,7 @@
   <tr>
     <td width="50%" align="center" style="border: 2px dashed #FFB6C1; border-radius: 10px; padding: 20px;">
       <h3>🎨 Girly Filter <br> (OpenCV Project)</h3>
-      <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="120" style="border-radius: 10px;"/><br><br>
+      <img src="https://media.tenor.com/31vc7LeW8mUAAAAC/cherry-blossom-blossom.gif" width="120" style="border-radius: 10px;"/><br><br>
       <img src="https://img.shields.io/badge/Computer%20Vision-FFF0F5?style=flat&logoColor=FF69B4&color=FFB6C1" alt="CV Badge"/>
       <img src="https://img.shields.io/badge/OpenCV-FFF0F5?style=flat&logoColor=FF69B4&color=FFB6C1" alt="OpenCV Badge"/><br><br>
       <div align="left">
@@ -85,7 +85,7 @@
     </td>
     <td width="50%" align="center" style="border: 2px dashed #FFB6C1; border-radius: 10px; padding: 20px;">
       <h3>🌐 Basho by Shivangi <br> (GWOC Project)</h3>
-      <img src="https://media.giphy.com/media/l0MYGb0p4hS9xX3xK/giphy.gif" width="120" style="border-radius: 10px;"/><br><br>
+      <img src="https://media.tenor.com/jnmlErccU84AAAAC/anpanmoon.gif" width="120" style="border-radius: 10px;"/><br><br>
       <img src="https://img.shields.io/badge/Team%20Project-FFF0F5?style=flat&logoColor=FF69B4&color=FFB6C1" alt="Team Badge"/>
       <img src="https://img.shields.io/badge/Open%20Source-FFF0F5?style=flat&logoColor=FF69B4&color=FFB6C1" alt="OS Badge"/><br><br>
       <div align="left">
