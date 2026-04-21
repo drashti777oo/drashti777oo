@@ -89,8 +89,9 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: (add your link)
-* 📧 Email: (add your email)
+* 💼 LinkedIn: [Drashti Singh](https://www.linkedin.com/in/drashti-singh-441143328/)
+* 📧 Email: [Drashtisingh14@gmail.com](mailto:Drashtisingh14@gmail.com)
+
 
 ---
 
