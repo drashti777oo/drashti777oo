@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=250&section=header&text=Hi,%20I'm%20Drashti%20Singh%20🌸&fontSize=60&fontColor=FF1493&animation=fadeIn&fontAlignY=35&desc=AI%20🤍%20Web%20Dev%20🤍%20UI/UX%20Designer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFF1F3&height=250&section=header&text=Hi,%20I'm%20Drashti%20Singh%20🌸&fontSize=60&fontColor=FF1493&animation=fadeIn&fontAlignY=35&desc=AI%20🤍%20Web%20Dev%20🤍%20UI/UX%20Designer&descAlignY=55&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=FF69B4&size=32&center=true&vCenter=true&width=600&height=50&lines=Building+beautiful+and+smart+things+with+code+✨;Code+with+logic,+design+with+emotion.+🌷" alt="Typing Header"/>
 
