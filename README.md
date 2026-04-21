@@ -1,98 +1,115 @@
-# 👋 Hi, I'm Drashti Singh
+<!-- 🌸 Cute Animated Header -->
 
-🎓 B.Tech Computer Science @ SVNIT Surat
-💻 Developer | UI/UX Enthusiast | AI/ML Learner
-🤖 Exploring Robotics, Simulation & Intelligent Systems
-
----
-
-## 🚀 What I'm Building
-
-* 🧠 AI/ML based systems solving real-world problems
-* 🌐 Interactive web apps with strong UI/UX focus
-* 🔐 Secure and scalable software systems
-* 🤖 Simulation environments using Gazebo
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&lines=Hi+I'm+Drashti+Singh+🌸;AI+%7C+Web+Dev+%7C+UI%2FUX+Designer;Building+cool+things+with+code+✨" />
+</p>
 
 ---
 
-## 🧠 Tech Stack
+## 🌷 About Me
 
-💻 Languages
-`C` `C++` `Python` `JavaScript` `TypeScript`
-
-🌐 Web Development
-`React` `Next.js` `HTML` `CSS`
-
-⚙️ Tools & Technologies
-`Git` `GitHub` `WSL` `Gazebo` `Wireshark` `OpenCV`
+🌸 B.Tech Computer Science @ SVNIT Surat
+💻 I love building **interactive + aesthetic web experiences**
+🤖 Exploring **AI, ML, Robotics & Simulation**
+🎯 Goal: Create impactful projects + crack top internships
 
 ---
 
-## 📌 Featured Projects
+## ✨ Tech Stack
 
-### 🧠 Echelon 2k26 — Fake Account Detection (AI/ML)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,next,html,css,git,github,opencv" />
+</p>
 
-* Built an intelligent system to detect fake accounts using machine learning
-* Focus on feature extraction, classification & pattern recognition
-* Designed to identify suspicious user behavior and anomalies
+---
+
+## 🌟 My Projects (Interactive Section)
+
+---
+
+### 🧠 Echelon 2k26 — Fake Account Detection
+
+<p>
+  <img align="right" width="150" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"/>
+</p>
+
+✨ AI/ML based system to detect fake accounts
+🔍 Uses pattern recognition & behavioral analysis
+📊 Focus on anomaly detection
+
+👉 https://github.com/drashti777oo/Echelon-2k26
 
 ---
 
 ### 🔐 Secure Management System
 
-* A secure file storage system (inspired by Google Drive)
-* Focus on **data protection, access control & secure storage**
-* Designed with scalability and user privacy in mind
+<p>
+  <img align="right" width="150" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
+</p>
+
+☁️ Secure file storage system (like Google Drive)
+🔒 Focus on privacy, encryption & access control
+📁 Designed for safe data handling
+
+👉 https://github.com/drashti777oo/Secure_Management
 
 ---
 
-### 🎨 Girly Filter (OpenCV Project) *(In Progress)*
+### 🎨 Girly Filter (OpenCV Project)
 
-* Real-time image processing using OpenCV
-* Applying filters and transformations on live camera feed
-* Focus on computer vision and creative visual effects
+<p>
+  <img align="right" width="150" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif"/>
+</p>
 
----
-
-### 🌐 Basho by Shivangi (GWOC Project)
-
-* Collaborative web project developed during GWOC
-* Worked in a team environment with version control and contributions
-* Focus on real-world development workflow and collaboration
+📸 Real-time image processing with OpenCV
+🎀 Cute filters & visual effects
+✨ Creative + fun computer vision project
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Basho by Shivangi (GWOC)
 
-![Drashti's GitHub stats](https://github-readme-stats.vercel.app/api?username=drashti777oo\&show_icons=true\&theme=tokyonight)
+<p>
+  <img align="right" width="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drashti777oo\&layout=compact\&theme=tokyonight)
+🤝 Team-based project during GWOC
+💡 Real-world collaboration experience
+🌍 Built using modern web technologies
 
----
-
-## 🎯 What Makes Me Different
-
-* 💡 Strong focus on **UI/UX + functionality together**
-* 🔍 Detail-oriented developer (care about alignment, motion, and design feel)
-* 🤝 Comfortable working in **team-based projects**
-* ⚡ Always exploring new domains (AI, Robotics, Security)
+👉 https://github.com/drashti777oo/Basho-by-Shivangi
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Magic
 
-* Machine Learning (core concepts + applications)
-* Cybersecurity & Web Security
-* Advanced React & interactive UI animations
-
----
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: [Drashti Singh](https://www.linkedin.com/in/drashti-singh-441143328/)
-* 📧 Email: [Drashtisingh14@gmail.com](mailto:Drashtisingh14@gmail.com)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=drashti777oo&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=drashti777oo&theme=tokyonight" />
+</p>
 
 ---
 
-⭐️ From [drashti777oo](https://github.com/drashti777oo)
+## 🌸 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/drashti-singh-441143328/">
+    <img src="https://img.shields.io/badge/LinkedIn-Drashti%20Singh-pink?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:Drashtisingh14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-ff69b4?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<!-- 🐍 Contribution Snake Animation -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+🌷 *“Code + Creativity = Magic”* ✨
