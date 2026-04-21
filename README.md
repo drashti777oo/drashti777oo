@@ -1,7 +1,7 @@
-<!-- 🌸 Soft Typing Header -->
+<!-- 🌸 Elegant Typing Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A8B8&center=true&vCenter=true&lines=Hi+I'm+Drashti+Singh+🌸;Design+%2B+Code+%3D+Magic+✨;AI+%7C+Web+Dev+%7C+UI%2FUX" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&center=true&vCenter=true&lines=Hi+I'm+Drashti+Singh+🌸;AI+%7C+Web+Dev+%7C+UI%2FUX;Building+beautiful+and+smart+things+✨" />
 </p>
 
 ---
@@ -9,45 +9,35 @@
 ## 🌷 About Me
 
 🌸 B.Tech Computer Science @ SVNIT Surat
-💻 I build **interactive, aesthetic & meaningful web experiences**
+💻 I build **interactive + aesthetic web experiences**
 🤖 Exploring **AI, ML, Robotics & Simulation**
-🎯 Focused on combining **design + logic together**
+🎯 Focus: blending **design + logic seamlessly**
 
 ---
 
 ## ✨ Tech Stack
 
-### 💻 Languages
-
-`C` `C++` `Python` `JavaScript` `TypeScript`
-
-### 🌐 Web Development
-
-`React` `Next.js` `HTML` `CSS`
-
-### 🧠 AI / CV
-
-`Machine Learning` `OpenCV`
-
-### ⚙️ Tools
-
-`Git` `GitHub` `WSL` `Gazebo` `Wireshark`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,next,html,css,git,github,opencv" />
+</p>
 
 ---
 
-## 🌟 Projects
+## 🌟 Featured Projects
 
 ---
 
 ### 🧠 Echelon 2k26 — Fake Account Detection
 
 <p align="right">
-  <img width="120" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"/>
+  <img width="110" src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif"/>
 </p>
 
-✨ AI/ML system to detect fake accounts
-🔍 Pattern recognition + anomaly detection
-📊 Focus on behavioral analysis
+`AI / Machine Learning / Data Analysis`
+
+✨ Detects fake accounts using intelligent models
+🔍 Focus on behavior patterns & anomaly detection
+📊 Built with real-world problem approach
 
 👉 https://github.com/drashti777oo/Echelon-2k26
 
@@ -56,40 +46,47 @@
 ### 🔐 Secure Management System
 
 <p align="right">
-  <img width="120" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
+  <img width="110" src="https://media.giphy.com/media/3o7TKsQ8UQqQ4q7b5C/giphy.gif"/>
 </p>
 
-☁️ Secure file storage system
-🔒 Privacy + access control focused
-📁 Inspired by Google Drive but safer
+`Web Development / Security`
+
+☁️ Secure file storage system (Google Drive inspired)
+👮 Focus on privacy, authentication & access control
+🔒 Designed for safe and secure data handling
 
 👉 https://github.com/drashti777oo/Secure_Management
 
 ---
 
-### 🎨 Girly Filter (OpenCV)
+### 🎨 Girly Filter (OpenCV Project)
 
 <p align="right">
-  <img width="120" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif"/>
+  <img width="110" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"/>
 </p>
 
-📸 Real-time filters using OpenCV
-🎀 Cute + creative visual effects
-✨ Blending computer vision with design
+`Computer Vision / OpenCV`
+
+📸 Real-time image filters using OpenCV
+💄 Cute makeup-style filters & visual effects
+✨ Blending computer vision with creativity
 
 ---
 
-### 🌐 Basho by Shivangi
+### 🌐 Basho by Shivangi (GWOC Project)
 
 <p align="right">
-  <img width="120" src="https://media.giphy.com/media/xT0GqeSlGSRQutX1oY/giphy.gif"/>
+  <img width="110" src="https://media.giphy.com/media/l0MYGb0p4hS9xX3xK/giphy.gif"/>
 </p>
 
-🤝 GWOC team collaboration
-💡 Real-world dev workflow
-🌍 Built with modern web stack
+`Team Project / Web Dev`
 
-👉 https://github.com/drashti777oo/Basho-by-Shivangi
+🤝 Built in a collaborative open-source environment
+💡 Experience with teamwork & version control
+🌍 Real-world development workflow
+
+👉 Project Live: https://bashoproject.vercel.app
+👉 Repo: https://github.com/drashti777oo/Basho-by-Shivangi
 
 ---
 
@@ -107,16 +104,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/drashti-singh-441143328/">
-    <img src="https://img.shields.io/badge/LinkedIn-Drashti%20Singh-F7A8B8?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Drashti%20Singh-F78DA7?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:Drashtisingh14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Let's%20Connect-ffb6c1?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-ff69b4?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-<!-- 🐍 Snake Animation -->
+<!-- 🐍 Clean Contribution Animation -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
@@ -124,4 +121,4 @@
 
 ---
 
-🌷 *Design it. Build it. Make it feel alive.* ✨
+🌷 *Code with logic. Design with emotion.* ✨
